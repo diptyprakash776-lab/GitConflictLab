@@ -1,1 +1,3 @@
-"# Git Conflict Lab" 
+# Git Conflict Lab
+
+Learning Git merge conflicts and rebase.
