@@ -1,1 +1,3 @@
-Account Balance: 70000
+<<<<<<< HEAD
+=======
+>>>>>>> ebcb212 (Main update balance)
